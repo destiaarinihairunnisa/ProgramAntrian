@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T17:14:16.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sOjjKevC7oOL7DQnZKPe" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T17:14:50.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yxID8gvlu8TY4E7tbhhf" version="21.1.5" type="github">
   <diagram name="Page-1" id="7KaI7PDGXMlLVLGPTViL">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-1" value="4.1&lt;br style=&quot;font-size: 14px;&quot;&gt;lihat data latih" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-2" value="4.2&lt;br style=&quot;font-size: 14px;&quot;&gt;tambah data latih" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-3" value="4.3&lt;br style=&quot;font-size: 14px;&quot;&gt;edit data latih" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-4" value="4.4&lt;br style=&quot;font-size: 14px;&quot;&gt;cari data latih" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-5" value="3.5&lt;br style=&quot;font-size: 14px;&quot;&gt;hapus data latih" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfkFVL6gK5WUMpAvYzcA-6" value="admin" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="120" height="20" as="geometry" />
@@ -198,7 +198,7 @@
             <mxPoint x="360" y="500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="589" y="500" />
-              <mxPoint x="360" y="500" />
+              <mxPoint x="340" y="500" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
